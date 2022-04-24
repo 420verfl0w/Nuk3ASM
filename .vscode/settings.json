@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "nuk3_parser.h": "c",
+        "unistd.h": "c",
+        "nuk3_utils.h": "c"
+    }
+}

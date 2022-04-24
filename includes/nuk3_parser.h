@@ -1,0 +1,10 @@
+#ifndef NUK3_PARSER_H
+#define NUK3_PARSER_H
+
+////////////////////////////////
+//
+//        FUNCTIONS
+//
+///////////////////////////////
+
+#endif
