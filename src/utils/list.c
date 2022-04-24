@@ -20,13 +20,13 @@
 nuk3_list_t	*nuke_lst_create(char *filename)
 {
     nuk3_list_t *ptr = (nuk3_list_t *)malloc(sizeof(nuk3_list_t));
-    if (!ptr)
-		return (NULL);
+
     ptr->file.filename = filename;
 	ptr->file.buf = NULL;
 	ptr->file.szfile = 0;
 	ptr->next = NULL;
 	ptr->prev = NULL;
+
     return (ptr);
 }
 
